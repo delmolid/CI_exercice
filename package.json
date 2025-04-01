@@ -1,0 +1,20 @@
+{
+  "name": "ci_exercice",
+  "version": "1.0.0",
+  "main": "fizzbus.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delmolid/CI_exercice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delmolid/CI_exercice/issues"
+  },
+  "homepage": "https://github.com/delmolid/CI_exercice#readme",
+  "description": ""
+}
